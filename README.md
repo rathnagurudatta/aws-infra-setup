@@ -37,7 +37,4 @@ IAM Role
         [AWS Location: IAM → Roles → GitHubActionsCloudFormationRole → Permissions
         AWS Location: IAM → Policies → Managed Policies]
 
-✅ Option A: Created Once via UI (Common in Small Teams)
-	•	IAM role + policies created manually
-	•	Stored only in AWS
-	•	GitHub Actions just uses the role
+
