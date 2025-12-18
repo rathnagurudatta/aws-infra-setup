@@ -1,6 +1,7 @@
 # github-actions-lab
 AWS - INFRA
 
+```text
 Developer (You)
    |
    | git push
